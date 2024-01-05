@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Dog",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.",
+      "photo": "https://th.bing.com/th/id/OIP._hYQ2tZYbQ7isZReVqGkJgHaE8?rs=1&pid=ImgDetMain",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP._hYQ2tZYbQ7isZReVqGkJgHaE8?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Cat",
+      "group": "mammal",
+      "level": "1",
+      "description": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+      "photo": "https://th.bing.com/th/id/R.a5b37c399c5b31e8f5401ebc6b70a43d?rik=YbSFH88dVSQV1g&riu=http%3a%2f%2fwww.techenet.com%2fwp-content%2fuploads%2f2015%2f07%2fgatinho.jpg&ehk=nGxeRCirOLYvzs1EkErwO656CT5brNjd6%2fLI4BdqXSU%3d&risl=&pid=ImgRaw&r=0",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.a5b37c399c5b31e8f5401ebc6b70a43d?rik=YbSFH88dVSQV1g&riu=http%3a%2f%2fwww.techenet.com%2fwp-content%2fuploads%2f2015%2f07%2fgatinho.jpg&ehk=nGxeRCirOLYvzs1EkErwO656CT5brNjd6%2fLI4BdqXSU%3d&risl=&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bird",
+      "group": "avian",
+      "level": "2",
+      "description": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.",
+      "photo": "https://th.bing.com/th/id/R.fc16defeaa1e2ffae9ba30a5699b0ebe?rik=u4q2bZB4vA4dbQ&pid=ImgRaw&r=0",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.fc16defeaa1e2ffae9ba30a5699b0ebe?rik=u4q2bZB4vA4dbQ&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Fish",
+      "group": "aquatic",
+      "level": "2",
+      "description": "A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.",
+      "photo": "https://th.bing.com/th/id/OIP.NG-CpSOeiVIwgK0E8u2KXwHaE6?w=2560&h=1700&rs=1&pid=ImgDetMain",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.NG-CpSOeiVIwgK0E8u2KXwHaE6?w=2560&h=1700&rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Rabbit",
+      "group": "mammal",
+      "level": "1",
+      "description": "A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+      "photo": "https://th.bing.com/th/id/OIP.yrMLh0cI9n3DBJDVMkMVfwHaGl?rs=1&pid=ImgDetMain",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.yrMLh0cI9n3DBJDVMkMVfwHaGl?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Turtle",
+      "group": "reptile",
+      "level": "3",
+      "description": "A slow-moving reptile, enclosed in a scaly or leathery domed shell into which it can retract its head and thick legs.",
+      "photo": "https://th.bing.com/th/id/OIP.UtWt7I1Cub2tfkc-FxOy5QHaFj?rs=1&pid=ImgDetMain",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.UtWt7I1Cub2tfkc-FxOy5QHaFj?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Snake",
+      "group": "reptile",
+      "level": "3",
+      "description": "A long legless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension.",
+      "photo": "https://th.bing.com/th/id/R.843a759bab3feec72f6cba0c41373776?rik=hfXCdn1pFi0Nog&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f7%2f76%2fCoast_Garter_Snake.jpg&ehk=kUvacvCfSVONICnNWgt5iOrwSguwC%2f7SRFox85Crx4g%3d&risl=1&pid=ImgRaw&r=0",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.843a759bab3feec72f6cba0c41373776?rik=hfXCdn1pFi0Nog&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f7%2f76%2fCoast_Garter_Snake.jpg&ehk=kUvacvCfSVONICnNWgt5iOrwSguwC%2f7SRFox85Crx4g%3d&risl=1&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Hamster",
+      "group": "mammal",
+      "level": "1",
+      "description": "A small Eurasian rodent of the subfamily Cricetinae, especially Mesocricetus auratus, which is often kept as a pet or used in scientific research.",
+      "photo": "https://ontariospca.ca/wp-content/uploads/2013/09/hamster2-1.jpg",
+      "links": {
+        "photo": "https://ontariospca.ca/wp-content/uploads/2013/09/hamster2-1.jpg",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Lizard",
+      "group": "reptile",
+      "level": "3",
+      "description": "A reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin.",
+      "photo": "https://th.bing.com/th/id/R.c3d21ed731137885f5778c6e576df44c?rik=OzEgCTzqirYs0Q&pid=ImgRaw&r=0",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.c3d21ed731137885f5778c6e576df44c?rik=OzEgCTzqirYs0Q&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Guinea Pig",
+      "group": "mammal",
+      "level": "1",
+      "description": "A tailless South American rodent of the cavy family. It is a domesticated species of cavy which is an important meat animal in parts of South America.",
+      "photo": "https://th.bing.com/th/id/R.4b2739e744875201b92cd5db696d5b46?rik=u9V%2fGUAv9XAIPA&pid=ImgRaw&r=0",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.4b2739e744875201b92cd5db696d5b46?rik=u9V%2fGUAv9XAIPA&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    }
+  ]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Purina",
+        "category": "Promotional",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "2",
+        "name": "Hill's Science Diet",
+        "category": "Recurring donation",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "3",
+        "name": "Royal Canin",
+        "category": "One-off donation",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "4",
+        "name": "PetSmart",
+        "category": "Promotional",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "5",
+        "name": "Mars, Inc.",
+        "category": "Recurring donation",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "6",
+        "name": "The Humane Society",
+        "category": "One-off donation",
+        "description": "Public body",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "7",
+        "name": "John Smith",
+        "category": "One-off donation",
+        "description": "Individual",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "8",
+        "name": "Petco",
+        "category": "Promotional",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "9",
+        "name": "Blue Buffalo",
+        "category": "Recurring donation",
+        "description": "Animal food brand",
+        "evaluation": [],
+        "comments": []
+    },
+    {
+        "id": "10",
+        "name": "Sarah Johnson",
+        "category": "One-off donation",
+        "description": "Individual",
+        "evaluation": [],
+        "comments": []
+    }
+]

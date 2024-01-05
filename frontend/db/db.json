@@ -1,0 +1,340 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Dog",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP._hYQ2tZYbQ7isZReVqGkJgHaE8?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Cat",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.a5b37c399c5b31e8f5401ebc6b70a43d?rik=YbSFH88dVSQV1g&riu=http%3a%2f%2fwww.techenet.com%2fwp-content%2fuploads%2f2015%2f07%2fgatinho.jpg&ehk=nGxeRCirOLYvzs1EkErwO656CT5brNjd6%2fLI4BdqXSU%3d&risl=&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bird",
+      "groud": "avian",
+      "level": "2",
+      "description": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.fc16defeaa1e2ffae9ba30a5699b0ebe?rik=u4q2bZB4vA4dbQ&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Fish",
+      "groud": "aquatic",
+      "level": "2",
+      "description": "A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.NG-CpSOeiVIwgK0E8u2KXwHaE6?w=2560&h=1700&rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Rabbit",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.yrMLh0cI9n3DBJDVMkMVfwHaGl?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Turtle",
+      "groud": "reptile",
+      "level": "3",
+      "description": "A slow-moving reptile, enclosed in a scaly or leathery domed shell into which it can retract its head and thick legs.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/OIP.UtWt7I1Cub2tfkc-FxOy5QHaFj?rs=1&pid=ImgDetMain",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Snake",
+      "groud": "reptile",
+      "level": "3",
+      "description": "A long legless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.843a759bab3feec72f6cba0c41373776?rik=hfXCdn1pFi0Nog&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f7%2f76%2fCoast_Garter_Snake.jpg&ehk=kUvacvCfSVONICnNWgt5iOrwSguwC%2f7SRFox85Crx4g%3d&risl=1&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Hamster",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A small Eurasian rodent of the subfamily Cricetinae, especially Mesocricetus auratus, which is often kept as a pet or used in scientific research.",
+      "links": {
+        "photo": "https://ontariospca.ca/wp-content/uploads/2013/09/hamster2-1.jpg",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Lizard",
+      "groud": "reptile",
+      "level": "3",
+      "description": "A reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.c3d21ed731137885f5778c6e576df44c?rik=OzEgCTzqirYs0Q&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Guinea Pig",
+      "groud": "mammal",
+      "level": "1",
+      "description": "A tailless South American rodent of the cavy family. It is a domesticated species of cavy which is an important meat animal in parts of South America.",
+      "links": {
+        "photo": "https://th.bing.com/th/id/R.4b2739e744875201b92cd5db696d5b46?rik=u9V%2fGUAv9XAIPA&pid=ImgRaw&r=0",
+        "video": "",
+        "sound": ""
+      },
+      "active": true
+    }
+  ],
+  "specialist": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "job": "Veterinarian",
+      "description": "Experienced veterinarian with a passion for animal care.",
+      "expertise": "Mammals",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "2",
+      "name": "Sarah Johnson",
+      "job": "Animal Behaviorist",
+      "description": "Specializes in understanding and modifying animal behavior.",
+      "expertise": "Dogs",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "3",
+      "name": "Michael Thompson",
+      "job": "Zoologist",
+      "description": "Studies animal behavior and habitats in the wild.",
+      "expertise": "Reptiles",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "job": "Animal Trainer",
+      "description": "Trains animals for performances, shows, and obedience.",
+      "expertise": "Birds",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "job": "Wildlife Rehabilitator",
+      "description": "Cares for injured or orphaned wildlife and prepares them for release.",
+      "expertise": "Small Mammals",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "6",
+      "name": "Jennifer Lee",
+      "job": "Equine Veterinarian",
+      "description": "Specializes in the health and well-being of horses.",
+      "expertise": "Horses",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "7",
+      "name": "Robert Garcia",
+      "job": "Marine Biologist",
+      "description": "Studies marine animals and their ecosystems.",
+      "expertise": "Marine Mammals",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "8",
+      "name": "Amy Rodriguez",
+      "job": "Exotic Animal Trainer",
+      "description": "Trains and handles exotic animals for entertainment purposes.",
+      "expertise": "Exotic Animals",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "9",
+      "name": "Daniel Kim",
+      "job": "Wildlife Conservationist",
+      "description": "Works to protect and conserve endangered wildlife populations.",
+      "expertise": "Endangered Species",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "10",
+      "name": "Michelle Chen",
+      "job": "Herpetologist",
+      "description": "Studies amphibians and reptiles and their habitats.",
+      "expertise": "Amphibians, Reptiles",
+      "evaluation": [],
+      "comments": []
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "1",
+      "name": "Purina",
+      "category": "Promotional",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "2",
+      "name": "Hill's Science Diet",
+      "category": "Recurring donation",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "3",
+      "name": "Royal Canin",
+      "category": "One-off donation",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "4",
+      "name": "PetSmart",
+      "category": "Promotional",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "5",
+      "name": "Mars, Inc.",
+      "category": "Recurring donation",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "6",
+      "name": "The Humane Society",
+      "category": "One-off donation",
+      "description": "Public body",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "7",
+      "name": "John Smith",
+      "category": "One-off donation",
+      "description": "Individual",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "8",
+      "name": "Petco",
+      "category": "Promotional",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "9",
+      "name": "Blue Buffalo",
+      "category": "Recurring donation",
+      "description": "Animal food brand",
+      "evaluation": [],
+      "comments": []
+    },
+    {
+      "id": "10",
+      "name": "Sarah Johnson",
+      "category": "One-off donation",
+      "description": "Individual",
+      "evaluation": [],
+      "comments": []
+    }
+  ],
+  "login": {
+    "token": "12345",
+    "user": {
+      "name": "Ricardo Queirós",
+      "email": "ricardo.queiros@gmail.com",
+      "birthday": "19-04-1975",
+      "location": {
+        "city": "Porto",
+        "country": "Portugal"
+      },
+      "auth": {
+        "username": "joao",
+        "password": "12345"
+      },
+      "gamification": {
+        "quiz": 1,
+        "points": 0
+      }
+    }
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "name": "adasd",
+      "points": 12
+    },
+    {
+      "id": 1,
+      "name": "adasd",
+      "points": 12
+    }
+  ]
+}
